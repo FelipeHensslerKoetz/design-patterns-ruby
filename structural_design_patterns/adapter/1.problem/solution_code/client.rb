@@ -1,8 +1,8 @@
-require_relative 'maserati'
+require_relative '../problem_code/maserati'
 require_relative 'maserati_adapter'
-require_relative 'bugatti'
+require_relative '../problem_code/bugatti'
 require_relative 'bugatti_adapter'
-require_relative 'porche'
+require_relative '../problem_code/porche'
 require_relative 'porche_adapter'
 
 # Solution: Use an adapter to display the speed of each car in KMH 
